@@ -1,0 +1,26 @@
+{
+	"category_list": [{
+			"name": "fruits",
+			"list": ["apple", "banana", "mango", "orange", "grapes"]
+		},
+		{
+			"name": "animals",
+			"list": ["dog", "cat", "lion", "tiger", "mouse"]
+		},
+		{
+			"name": "colors",
+			"list": ["white", "green", "blue", "red", "yellow"]
+		},
+		{
+			"name": "computer",
+			"list": ["monitor", "speaker", "c.p.u", "keyboard", "mouse"]
+		},
+                                  
+                                   {
+                                                     "name":"vegetables",
+                                                     "list":["onion","tomato","potato","bringle","brocille","spinach"] 
+                                   }  
+
+
+	]
+}
